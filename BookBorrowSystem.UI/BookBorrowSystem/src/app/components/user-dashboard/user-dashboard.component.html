@@ -1,0 +1,32 @@
+<div class="container my-5">
+    <button class="btn btn-dark" routerLink="/">Back To Home</button>
+    <button class="btn btn-warning m-2" routerLink="/create-book"> Create </button>
+    <h2 class="text-center">All Available Books</h2>
+    <div class="row">
+      <ng-container *ngFor="let book of books">
+        <div class="col-md-4 mb-4" *ngIf="book.isBookAvailable">
+          <div class="card" [ngClass]="{ 'bg-light': loggedInUserId !== book.lentByUserId, 'bg-secondary': loggedInUserId === book.lentByUserId }">
+            <div class="card-body">
+              <h5 class="card-title text-center">{{ book.name }}</h5>
+              <p class="card-text">Rating: {{ book.rating }}</p>
+              <p class="card-text">Author: {{ book.author }}</p>
+              <p class="card-text">Genre: {{ book.genre }}</p>
+              <p class="card-text">Description: {{ book.description }}</p>
+              <ng-container *ngIf="loggedInUserId === book.lentByUserId">
+                <div class="text-center">
+                <button class="btn btn-primary mx-2" (click)="editBook(book)">Edit</button>
+                <button class="btn btn-danger" (click)="deleteBook(book)">Delete</button>
+                </div>
+              </ng-container>
+              <ng-container *ngIf="loggedInUserId !== book.lentByUserId">
+                <div class="text-center">
+                <button class="btn btn-success" (click)="borrowBook(book)">Borrow</button>
+                </div>
+              </ng-container>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+  

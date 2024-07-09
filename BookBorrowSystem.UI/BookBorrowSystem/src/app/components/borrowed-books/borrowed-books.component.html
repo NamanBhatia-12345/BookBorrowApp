@@ -1,0 +1,39 @@
+   <div class="container my-5">
+    <h2 class="text-center">Borrowed Books</h2>
+    <div class="row">
+      <div class="col-md-12">
+        <ng-container *ngIf="borrowedBooks.length > 0; else noBooks">
+          <table class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Author</th>
+                <th>Genre</th>
+                <th>Description</th>
+                <th>Borrowed By User ID</th>
+                <th>Lent By User ID</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let book of borrowedBooks">
+                <td>{{ book.name }}</td>
+                <td>{{ book.author }}</td>
+                <td>{{ book.genre }}</td>
+                <td>{{ book.description }}</td>
+                <td>{{ book.borrowedByUserId }}</td>
+                <td>{{ book.lentByUserId }}</td>
+                <td>
+                  <button class="btn btn-primary btn-sm" (click)="returnBook(book.id)">Return</button>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </ng-container>
+        <ng-template #noBooks>
+          <h5 class="my-5">No books borrowed at the moment.</h5>
+        </ng-template>
+      </div>
+    </div>
+  </div>
+    

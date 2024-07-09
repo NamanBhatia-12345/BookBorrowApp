@@ -1,0 +1,69 @@
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.deps.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.runtimeconfig.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Core.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Core.pdb
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.CopyComplete
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\refint\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\ref\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.deps.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.runtimeconfig.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Core.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Core.pdb
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.CopyComplete
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\refint\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\ref\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.deps.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.runtimeconfig.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Core.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Core.pdb
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.CopyComplete
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\refint\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\ref\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.deps.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.runtimeconfig.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Core.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\bin\Debug\net6.0\BookBorrowSystem.Core.pdb
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.sourcelink.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorr.0580B91D.Up2Date
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\refint\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\BookBorrowSystem.Infrastructure.genruntimeconfig.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.Infrastructure\obj\Debug\net6.0\ref\BookBorrowSystem.Infrastructure.dll

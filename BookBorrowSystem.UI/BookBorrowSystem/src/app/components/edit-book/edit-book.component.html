@@ -1,0 +1,58 @@
+<div class="container my-5">
+    <button class="btn btn-secondary" routerLink="/user-dashboard">Back To Dashboard</button>
+    <h2 class="text-center">Edit Book</h2>
+    <form (ngSubmit)="editBook()" #editBookForm="ngForm" novalidate>
+      <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" id="name" class="form-control" [(ngModel)]="bookDetails.name" name="name" required maxlength="100">
+        <div *ngIf="editBookForm.controls['name']?.invalid && (editBookForm.controls['name']?.dirty || editBookForm.controls['name']?.touched)">
+          <small class="text-danger" *ngIf="editBookForm.controls['name']?.hasError('required')">Name is required</small>
+          <small class="text-danger" *ngIf="editBookForm.controls['name']?.hasError('maxlength')">Name should be less than 100 characters</small>
+        </div>
+      </div>
+  
+      <div class="form-group">
+        <label for="rating">Rating:</label>
+        <input type="number" id="rating" class="form-control" [(ngModel)]="bookDetails.rating" name="rating" required min="1" max="10">
+        <div *ngIf="editBookForm.controls['rating']?.invalid && (editBookForm.controls['rating']?.dirty || editBookForm.controls['rating']?.touched)">
+          <small class="text-danger" *ngIf="editBookForm.controls['rating']?.hasError('required')">Rating is required</small>
+          <small class="text-danger" *ngIf="editBookForm.controls['rating']?.hasError('min') || editBookForm.controls['rating']?.hasError('max')">Rating should be between 1 and 10</small>
+        </div>
+      </div>
+  
+      <div class="form-group">
+        <label for="author">Author:</label>
+        <input type="text" id="author" class="form-control" [(ngModel)]="bookDetails.author" name="author" required maxlength="100">
+        <div *ngIf="editBookForm.controls['author']?.invalid && (editBookForm.controls['author']?.dirty || editBookForm.controls['author']?.touched)">
+          <small class="text-danger" *ngIf="editBookForm.controls['author']?.hasError('required')">Author is required</small>
+          <small class="text-danger" *ngIf="editBookForm.controls['author']?.hasError('maxlength')">Author should be less than 30 characters</small>
+        </div>
+      </div>
+  
+      <div class="form-group">
+        <label for="genre">Genre:</label>
+        <input type="text" id="genre" class="form-control" [(ngModel)]="bookDetails.genre" name="genre" required maxlength="100">
+        <div *ngIf="editBookForm.controls['genre']?.invalid && (editBookForm.controls['genre']?.dirty || editBookForm.controls['genre']?.touched)">
+          <small class="text-danger" *ngIf="editBookForm.controls['genre']?.hasError('required')">Genre is required</small>
+          <small class="text-danger" *ngIf="editBookForm.controls['genre']?.hasError('maxlength')">Genre should be less than 30 characters</small>
+        </div>
+      </div>
+  
+      <div class="form-group">
+        <label for="description">Description:</label>
+        <textarea id="description" class="form-control" [(ngModel)]="bookDetails.description" name="description" required maxlength="100"></textarea>
+        <div *ngIf="editBookForm.controls['description']?.invalid && (editBookForm.controls['description']?.dirty || editBookForm.controls['description']?.touched)">
+          <small class="text-danger" *ngIf="editBookForm.controls['description']?.hasError('required')">Description is required</small>
+        
+        </div>
+      </div>
+  
+      <div class="form-check">
+        <input type="checkbox" class="form-check-input" id="isBookAvailable" [(ngModel)]="bookDetails.isBookAvailable" name="isBookAvailable" checked>
+        <label class="form-check-label" for="isBookAvailable">Book Available</label>
+      </div>
+  
+      <button type="submit" class="btn btn-primary" [disabled]="!editBookForm.form.valid">Edit Book</button>
+    </form>
+  </div>
+  

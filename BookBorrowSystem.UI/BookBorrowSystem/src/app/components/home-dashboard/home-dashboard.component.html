@@ -1,0 +1,26 @@
+<div class="container my-5">
+    <div *ngIf="books && books.length > 0">
+    <div class="row">
+    <ng-container *ngFor="let book of books">
+      <div class="col-md-4 mb-4">
+        <div [ngClass]="{'card': true, 'bg-primary': book.isBookAvailable, 'bg-danger': !book.isBookAvailable}">
+          <div class="card-body">
+            <h5 class="card-title text-center">{{ book.name }}</h5>
+            <p class="card-text"><strong>Rating:</strong> {{ book.rating }}</p>
+            <p class="card-text"><strong>Author:</strong>{{ book.author }}</p>
+            <p class="card-text"><strong>Genre:</strong>{{ book.genre }}</p>
+            <p class="card-text"><strong>Book Available:</strong> {{ book.isBookAvailable }}</p>
+            <p class="card-text"><strong>Lent UserId:</strong> {{ book.lentByUserId }}</p>
+            <div class="text-center">
+                <button class="btn btn-warning" (click)="showDetails(book)">View Details</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </ng-container>
+    </div>
+    </div>
+    <div *ngIf="!books || books.length === 0">
+        <h3 class="text-center">No Books Found</h3>
+      </div>
+    </div>

@@ -1,0 +1,40 @@
+<div *ngIf="bookDetails">
+    <a routerLink="/" class="btn btn-warning m-2">Back to Home</a>
+    <h2 class="mt-3 text-center">{{ bookDetails.name }}</h2>
+    <table class="table table-striped mt-3">
+      <tbody>
+        <tr>
+          <th scope="row">ID</th>
+          <td>{{ bookDetails.id }}</td>
+        </tr>
+        <tr>
+          <th scope="row">Rating</th>
+          <td>{{ bookDetails.rating }}</td>
+        </tr>
+        <tr>
+          <th scope="row">Author</th>
+          <td>{{ bookDetails.author }}</td>
+        </tr>
+        <tr>
+          <th scope="row">Genre</th>
+          <td>{{ bookDetails.genre }}</td>
+        </tr>
+        <tr>
+          <th scope="row">Description</th>
+          <td>{{ bookDetails.description }}</td>
+        </tr>
+        <tr>
+          <th scope="row">Is Book Available</th>
+          <td>{{ bookDetails.isBookAvailable }}</td>
+        </tr>
+        <tr>
+          <th scope="row">Lent UserId</th>
+          <td>{{ bookDetails.lentByUserId }}</td>
+        </tr>
+        <tr *ngIf="!bookDetails.isBookAvailable">
+            <th scope="row">Borrowed UserId</th>
+            <td>{{ bookDetails.borrowedByUserId }}</td>
+      </tbody>
+    </table>
+  </div>
+  

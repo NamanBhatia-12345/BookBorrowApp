@@ -1,0 +1,365 @@
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\appsettings.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.exe
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.deps.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.runtimeconfig.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.pdb
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Core.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Core.pdb
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.AssemblyReference.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.AssemblyInfoInputs.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.AssemblyInfo.cs
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.BookBorrowSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.build.BookBorrowSystem.API.props
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookBorrowSystem.API.props
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookBorrowSystem.API.props
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\scopedcss\bundle\BookBorrowSystem.API.styles.css
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.CopyComplete
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\refint\BookBorrowSystem.API.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.pdb
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.genruntimeconfig.cache
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\ref\BookBorrowSystem.API.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\naman\source\repos\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\appsettings.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.exe
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.deps.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.runtimeconfig.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.pdb
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Core.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Core.pdb
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.AssemblyReference.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.AssemblyInfoInputs.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.AssemblyInfo.cs
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.BookBorrowSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.build.BookBorrowSystem.API.props
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookBorrowSystem.API.props
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookBorrowSystem.API.props
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\scopedcss\bundle\BookBorrowSystem.API.styles.css
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.CopyComplete
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\refint\BookBorrowSystem.API.dll
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.pdb
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.genruntimeconfig.cache
+C:\Users\namanbhatia01\source\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\ref\BookBorrowSystem.API.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\appsettings.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.exe
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.deps.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.runtimeconfig.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.pdb
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Core.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Core.pdb
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.AssemblyReference.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.AssemblyInfoInputs.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.AssemblyInfo.cs
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.BookBorrowSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.build.BookBorrowSystem.API.props
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookBorrowSystem.API.props
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookBorrowSystem.API.props
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\scopedcss\bundle\BookBorrowSystem.API.styles.css
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.CopyComplete
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\refint\BookBorrowSystem.API.dll
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.pdb
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.genruntimeconfig.cache
+C:\Users\namanbhatia01\source\Book-Borrow-App\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\ref\BookBorrowSystem.API.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\appsettings.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.exe
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.deps.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.runtimeconfig.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.API.pdb
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Core.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Core.pdb
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\bin\Debug\net6.0\BookBorrowSystem.Infrastructure.pdb
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.AssemblyReference.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.AssemblyInfoInputs.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.AssemblyInfo.cs
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.csproj.CoreCompileInputs.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.sourcelink.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.BookBorrowSystem.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.build.BookBorrowSystem.API.props
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookBorrowSystem.API.props
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookBorrowSystem.API.props
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\scopedcss\bundle\BookBorrowSystem.API.styles.css
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorr.3C4741DB.Up2Date
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\refint\BookBorrowSystem.API.dll
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.pdb
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\BookBorrowSystem.API.genruntimeconfig.cache
+C:\Users\naman\naman-bhatia\Book Borrow System\BookBorrowSystem\BookBorrowSystem.API\obj\Debug\net6.0\ref\BookBorrowSystem.API.dll

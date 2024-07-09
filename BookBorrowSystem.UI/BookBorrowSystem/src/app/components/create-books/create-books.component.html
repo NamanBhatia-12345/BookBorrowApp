@@ -1,0 +1,39 @@
+<div class="container my-3">
+    <button class="btn btn-secondary" routerLink="/user-dashboard">Back To Dashboard</button>
+    <h2 class="text-center">Create a Book</h2>
+    <form (ngSubmit)="addBook()" #bookForm="ngForm">
+      <div class="form-group">
+        <label for="name" class="my-2">Name:</label>
+        <input type="text" class="form-control" id="name" name="name" required [(ngModel)]="book.name">
+
+      </div>
+  
+      <div class="form-group">
+        <label for="rating">Rating (1-10):</label>
+        <input type="number" class="form-control" id="rating" name="rating" required min="1" max="10" [(ngModel)]="book.rating">
+      </div>
+  
+      <div class="form-group">
+        <label for="author">Author:</label>
+        <input type="text" class="form-control" id="author" name="author" required [(ngModel)]="book.author">
+      </div>
+  
+      <div class="form-group">
+        <label for="genre">Genre:</label>
+        <input type="text" class="form-control" id="genre" name="genre" required [(ngModel)]="book.genre">
+      </div>
+  
+      <div class="form-group">
+        <label for="description">Description:</label>
+        <textarea class="form-control" id="description" name="description" required [(ngModel)]="book.description"></textarea>
+      </div>
+  
+      <div class="form-group form-check">
+        <input type="checkbox" class="form-check-input" id="isBookAvailable" name="isBookAvailable" checked>
+        <label class="form-check-label" for="isBookAvailable">Is Book Available</label>
+      </div>
+  
+      <button type="submit" class="btn btn-primary">Add Book</button>
+    </form>
+  </div>
+
